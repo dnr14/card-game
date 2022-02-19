@@ -6,6 +6,12 @@
 - 서로 다른 8장카드의 짝을 빠르게 찾는 사람이 승리한다.
 - [게임체험하기](https://dnr14.github.io/cardgame)
 
+### 구현 기술
+
+1.  HTML, CSS, JS
+
+> 👨‍💻 구현화면
+
 <div align=center>
   <img src=./images/card.gif />
 </div>
